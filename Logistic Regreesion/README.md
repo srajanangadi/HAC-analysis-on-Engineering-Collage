@@ -1,4 +1,4 @@
-# Comprehensive Project Report: Adult Salary Prediction using Logistic Regression
+# Adult Salary Prediction using Logistic Regression
 
 ## 1. Executive Summary
 This project delivers an end-to-end predictive modeling pipeline developed to classify whether an individual's annual income exceeds \$50,000 (`>50K`) or falls below/equals \$50,000 (`<=50K`). Utilizing the industry-standard **Adult Salary Dataset**, a robust **Logistic Regression** framework was engineered to assist organizational or policy-driven decision-making. 
